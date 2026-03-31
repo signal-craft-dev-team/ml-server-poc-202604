@@ -2,8 +2,7 @@
 
 
 def main():
-    # TODO: 학습 로직 구현
-    pass
+    print("Hello, Cloud Run Jobs! this is a train job.")
 
 
 if __name__ == "__main__":
